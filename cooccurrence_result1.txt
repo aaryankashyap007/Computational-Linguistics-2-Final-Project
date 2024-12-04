@@ -1,0 +1,3915 @@
+1.
+Word 1: right
+Word 2: redress
+Cosine Similarity: 0.2737
+
+2.
+Word 1: recognized
+Word 2: acknowledge
+Cosine Similarity: 0.6045
+
+3.
+Word 1: accustomed
+Word 2: habituate
+Cosine Similarity: -0.0448
+
+4.
+Word 1: right
+Word 2: center
+Cosine Similarity: 0.1712
+
+5.
+Word 1: eruptive
+Word 2: igneous
+Cosine Similarity: 0.0433
+
+6.
+Word 1: raised
+Word 2: curse
+Cosine Similarity: 0.0208
+
+7.
+Word 1: close
+Word 2: distant
+Cosine Similarity: 0.1886
+
+8.
+Word 1: virulent
+Word 2: acid
+Cosine Similarity: 0.1489
+
+9.
+Word 1: spare
+Word 2: component
+Cosine Similarity: 0.1258
+
+10.
+Word 1: thick
+Word 2: dense
+Cosine Similarity: 0.4056
+
+11.
+Word 1: outside
+Word 2: surface
+Cosine Similarity: 0.4877
+
+12.
+Word 1: dull
+Word 2: lively
+Cosine Similarity: 0.0351
+
+13.
+Word 1: ideal
+Word 2: model
+Cosine Similarity: 0.0623
+
+14.
+Word 1: going
+Word 2: compare
+Cosine Similarity: 0.1841
+
+15.
+Word 1: mounted
+Word 2: rerun
+Cosine Similarity: 0.0326
+
+16.
+Word 1: faithful
+Word 2: fold
+Cosine Similarity: -0.0344
+
+17.
+Word 1: dependant
+Word 2: qualified
+Cosine Similarity: 0.6454
+
+18.
+Word 1: outside
+Word 2: indoor
+Cosine Similarity: 0.1174
+
+19.
+Word 1: outside
+Word 2: away
+Cosine Similarity: 0.6378
+
+20.
+Word 1: accommodating
+Word 2: provide
+Cosine Similarity: -0.0555
+
+21.
+Word 1: quick
+Word 2: fast
+Cosine Similarity: 0.2082
+
+22.
+Word 1: secret
+Word 2: confidence
+Cosine Similarity: 0.0640
+
+23.
+Word 1: implicit
+Word 2: explicit
+Cosine Similarity: 0.0679
+
+24.
+Word 1: accommodating
+Word 2: meet
+Cosine Similarity: 0.0574
+
+25.
+Word 1: feathered
+Word 2: join
+Cosine Similarity: 0.1135
+
+26.
+Word 1: shortened
+Word 2: abbreviated
+Cosine Similarity: 0.0561
+
+27.
+Word 1: quiet
+Word 2: comfort
+Cosine Similarity: -0.0238
+
+28.
+Word 1: straight
+Word 2: person
+Cosine Similarity: 0.2944
+
+29.
+Word 1: new
+Word 2: newly
+Cosine Similarity: 0.5554
+
+30.
+Word 1: plundering
+Word 2: aggression
+Cosine Similarity: -0.0098
+
+31.
+Word 1: last
+Word 2: live
+Cosine Similarity: 0.3330
+
+32.
+Word 1: relative
+Word 2: relation
+Cosine Similarity: 0.3794
+
+33.
+Word 1: abused
+Word 2: attack
+Cosine Similarity: 0.1123
+
+34.
+Word 1: extra
+Word 2: spare
+Cosine Similarity: 0.1776
+
+35.
+Word 1: acknowledged
+Word 2: admit
+Cosine Similarity: 0.0228
+
+36.
+Word 1: essential
+Word 2: adjective
+Cosine Similarity: 0.0023
+
+37.
+Word 1: direct
+Word 2: aim
+Cosine Similarity: 0.1432
+
+38.
+Word 1: feathered
+Word 2: feathery
+Cosine Similarity: 0.3821
+
+39.
+Word 1: mounted
+Word 2: ride
+Cosine Similarity: -0.0284
+
+40.
+Word 1: alive
+Word 2: live
+Cosine Similarity: 0.3840
+
+41.
+Word 1: passive
+Word 2: voice
+Cosine Similarity: 0.4115
+
+42.
+Word 1: essential
+Word 2: need
+Cosine Similarity: 0.3828
+
+43.
+Word 1: raised
+Word 2: change
+Cosine Similarity: 0.3545
+
+44.
+Word 1: direct
+Word 2: indirect
+Cosine Similarity: 0.2956
+
+45.
+Word 1: open
+Word 2: undetermined
+Cosine Similarity: 0.2046
+
+46.
+Word 1: true
+Word 2: honest
+Cosine Similarity: 0.0640
+
+47.
+Word 1: decorated
+Word 2: beautify
+Cosine Similarity: 0.0276
+
+48.
+Word 1: recognized
+Word 2: know
+Cosine Similarity: 0.3999
+
+49.
+Word 1: abused
+Word 2: pervert
+Cosine Similarity: 0.0002
+
+50.
+Word 1: progressive
+Word 2: tense
+Cosine Similarity: 0.1021
+
+51.
+Word 1: recognised
+Word 2: know
+Cosine Similarity: 0.1717
+
+52.
+Word 1: right
+Word 2: proper
+Cosine Similarity: 0.3380
+
+53.
+Word 1: activated
+Word 2: initiate
+Cosine Similarity: -0.0099
+
+54.
+Word 1: going
+Word 2: malfunction
+Cosine Similarity: 0.0127
+
+55.
+Word 1: dynamic
+Word 2: incentive
+Cosine Similarity: 0.1740
+
+56.
+Word 1: flat
+Word 2: box
+Cosine Similarity: 0.4402
+
+57.
+Word 1: given
+Word 2: take
+Cosine Similarity: 0.3169
+
+58.
+Word 1: acknowledged
+Word 2: mention
+Cosine Similarity: 0.0106
+
+59.
+Word 1: rank
+Word 2: ninth
+Cosine Similarity: -0.0406
+
+60.
+Word 1: existent
+Word 2: existing
+Cosine Similarity: 0.4592
+
+61.
+Word 1: cut
+Word 2: hit
+Cosine Similarity: 0.0236
+
+62.
+Word 1: living
+Word 2: animation
+Cosine Similarity: 0.1203
+
+63.
+Word 1: repellent
+Word 2: disgusting
+Cosine Similarity: -0.0259
+
+64.
+Word 1: dead
+Word 2: utter
+Cosine Similarity: 0.0516
+
+65.
+Word 1: thick
+Word 2: inside
+Cosine Similarity: 0.3933
+
+66.
+Word 1: basic
+Word 2: canonical
+Cosine Similarity: 0.1726
+
+67.
+Word 1: equal
+Word 2: rival
+Cosine Similarity: 0.0637
+
+68.
+Word 1: plain
+Word 2: fancy
+Cosine Similarity: 0.0240
+
+69.
+Word 1: repellent
+Word 2: wicked
+Cosine Similarity: 0.0674
+
+70.
+Word 1: activated
+Word 2: reactivate
+Cosine Similarity: -0.0161
+
+71.
+Word 1: decorated
+Word 2: hang
+Cosine Similarity: -0.0121
+
+72.
+Word 1: close
+Word 2: fill
+Cosine Similarity: 0.2745
+
+73.
+Word 1: acidic
+Word 2: acid
+Cosine Similarity: 0.2743
+
+74.
+Word 1: wrong
+Word 2: correctly
+Cosine Similarity: 0.0988
+
+75.
+Word 1: accepted
+Word 2: adopt
+Cosine Similarity: 0.2257
+
+76.
+Word 1: abridged
+Word 2: shorten
+Cosine Similarity: -0.0367
+
+77.
+Word 1: dormant
+Word 2: sleeping
+Cosine Similarity: 0.0195
+
+78.
+Word 1: new
+Word 2: freshly
+Cosine Similarity: 0.0201
+
+79.
+Word 1: hooked
+Word 2: play
+Cosine Similarity: 0.0396
+
+80.
+Word 1: coherent
+Word 2: logical
+Cosine Similarity: 0.1038
+
+81.
+Word 1: flat
+Word 2: level
+Cosine Similarity: 0.0959
+
+82.
+Word 1: actual
+Word 2: existent
+Cosine Similarity: 0.1000
+
+83.
+Word 1: alive
+Word 2: alert
+Cosine Similarity: 0.0574
+
+84.
+Word 1: dying
+Word 2: suffocate
+Cosine Similarity: 0.1498
+
+85.
+Word 1: direct
+Word 2: alternating
+Cosine Similarity: 0.2023
+
+86.
+Word 1: possible
+Word 2: possibility
+Cosine Similarity: 0.4518
+
+87.
+Word 1: procedural
+Word 2: substantive
+Cosine Similarity: 0.0287
+
+88.
+Word 1: wrong
+Word 2: injury
+Cosine Similarity: 0.1372
+
+89.
+Word 1: granted
+Word 2: forgive
+Cosine Similarity: nan
+
+90.
+Word 1: recognised
+Word 2: prize
+Cosine Similarity: 0.0338
+
+91.
+Word 1: unacceptable
+Word 2: acceptable
+Cosine Similarity: 0.3489
+
+92.
+Word 1: clean
+Word 2: dirty
+Cosine Similarity: 0.0405
+
+93.
+Word 1: adorned
+Word 2: deck
+Cosine Similarity: nan
+
+94.
+Word 1: dull
+Word 2: dim
+Cosine Similarity: 0.0567
+
+95.
+Word 1: rich
+Word 2: productive
+Cosine Similarity: 0.1551
+
+96.
+Word 1: shortened
+Word 2: truncated
+Cosine Similarity: nan
+
+97.
+Word 1: objective
+Word 2: subjective
+Cosine Similarity: 0.0552
+
+98.
+Word 1: bare
+Word 2: unfinished
+Cosine Similarity: -0.0188
+
+99.
+Word 1: scarce
+Word 2: barely
+Cosine Similarity: 0.0068
+
+100.
+Word 1: raised
+Word 2: enhance
+Cosine Similarity: 0.1130
+
+101.
+Word 1: real
+Word 2: material
+Cosine Similarity: 0.2265
+
+102.
+Word 1: viscous
+Word 2: mucilaginous
+Cosine Similarity: 0.4234
+
+103.
+Word 1: tarry
+Word 2: leave
+Cosine Similarity: 0.0394
+
+104.
+Word 1: dependent
+Word 2: independent
+Cosine Similarity: 0.2200
+
+105.
+Word 1: true
+Word 2: false
+Cosine Similarity: 0.4503
+
+106.
+Word 1: live
+Word 2: lively
+Cosine Similarity: 0.0040
+
+107.
+Word 1: dependant
+Word 2: hooked
+Cosine Similarity: 0.0177
+
+108.
+Word 1: dead
+Word 2: live
+Cosine Similarity: 0.5521
+
+109.
+Word 1: hot
+Word 2: live
+Cosine Similarity: 0.3126
+
+110.
+Word 1: infinite
+Word 2: space
+Cosine Similarity: 0.3343
+
+111.
+Word 1: deficient
+Word 2: wanting
+Cosine Similarity: -0.0189
+
+112.
+Word 1: dying
+Word 2: grave
+Cosine Similarity: 0.0114
+
+113.
+Word 1: accommodating
+Word 2: fit
+Cosine Similarity: 0.2139
+
+114.
+Word 1: right
+Word 2: representation
+Cosine Similarity: 0.2055
+
+115.
+Word 1: rich
+Word 2: plentiful
+Cosine Similarity: 0.1306
+
+116.
+Word 1: wrong
+Word 2: right
+Cosine Similarity: 0.2909
+
+117.
+Word 1: recognised
+Word 2: distinguish
+Cosine Similarity: 0.1119
+
+118.
+Word 1: abridged
+Word 2: cut
+Cosine Similarity: 0.0720
+
+119.
+Word 1: granted
+Word 2: pension
+Cosine Similarity: 0.4747
+
+120.
+Word 1: clean
+Word 2: vacuum
+Cosine Similarity: 0.2533
+
+121.
+Word 1: granted
+Word 2: allot
+Cosine Similarity: 0.0536
+
+122.
+Word 1: retired
+Word 2: displace
+Cosine Similarity: 0.0431
+
+123.
+Word 1: slow
+Word 2: slow
+Cosine Similarity: 1.0000
+
+124.
+Word 1: addicted
+Word 2: habituate
+Cosine Similarity: 0.0085
+
+125.
+Word 1: relative
+Word 2: person
+Cosine Similarity: 0.1846
+
+126.
+Word 1: extinct
+Word 2: active
+Cosine Similarity: 0.0252
+
+127.
+Word 1: gluey
+Word 2: sticky
+Cosine Similarity: 0.2017
+
+128.
+Word 1: going
+Word 2: run
+Cosine Similarity: 0.1943
+
+129.
+Word 1: recognised
+Word 2: appreciate
+Cosine Similarity: -0.0113
+
+130.
+Word 1: equal
+Word 2: inadequate
+Cosine Similarity: 0.0359
+
+131.
+Word 1: clean
+Word 2: remove
+Cosine Similarity: 0.7749
+
+132.
+Word 1: surgical
+Word 2: nonsurgical
+Cosine Similarity: 0.2994
+
+133.
+Word 1: absorbent
+Word 2: sponge
+Cosine Similarity: 0.0498
+
+134.
+Word 1: emerging
+Word 2: appear
+Cosine Similarity: 0.1148
+
+135.
+Word 1: ample
+Word 2: sizable
+Cosine Similarity: 0.0000
+
+136.
+Word 1: slow
+Word 2: slack
+Cosine Similarity: 0.0282
+
+137.
+Word 1: quick
+Word 2: area
+Cosine Similarity: 0.2790
+
+138.
+Word 1: bare
+Word 2: circulate
+Cosine Similarity: -0.0174
+
+139.
+Word 1: dead
+Word 2: alive
+Cosine Similarity: 0.0860
+
+140.
+Word 1: new
+Word 2: fresh
+Cosine Similarity: 0.1845
+
+141.
+Word 1: athletic
+Word 2: gymnastic
+Cosine Similarity: 0.0259
+
+142.
+Word 1: granted
+Word 2: accord
+Cosine Similarity: 0.0657
+
+143.
+Word 1: addicted
+Word 2: hook
+Cosine Similarity: -0.0358
+
+144.
+Word 1: close
+Word 2: trade
+Cosine Similarity: 0.4223
+
+145.
+Word 1: active
+Word 2: voice
+Cosine Similarity: 0.2691
+
+146.
+Word 1: incorrect
+Word 2: correct
+Cosine Similarity: 0.2418
+
+147.
+Word 1: retired
+Word 2: toy
+Cosine Similarity: 0.0405
+
+148.
+Word 1: extra
+Word 2: actor
+Cosine Similarity: 0.0837
+
+149.
+Word 1: plundering
+Word 2: sack
+Cosine Similarity: -0.0004
+
+150.
+Word 1: sluggish
+Word 2: inert
+Cosine Similarity: 0.0438
+
+151.
+Word 1: living
+Word 2: sustenance
+Cosine Similarity: 0.0385
+
+152.
+Word 1: going
+Word 2: taxi
+Cosine Similarity: 0.0409
+
+153.
+Word 1: adorned
+Word 2: grace
+Cosine Similarity: nan
+
+154.
+Word 1: possible
+Word 2: impossible
+Cosine Similarity: 0.0784
+
+155.
+Word 1: infinite
+Word 2: attribute
+Cosine Similarity: 0.0400
+
+156.
+Word 1: open
+Word 2: move
+Cosine Similarity: 0.3320
+
+157.
+Word 1: easy
+Word 2: uneasy
+Cosine Similarity: 0.0273
+
+158.
+Word 1: new
+Word 2: old
+Cosine Similarity: 0.5747
+
+159.
+Word 1: equal
+Word 2: represent
+Cosine Similarity: 0.2128
+
+160.
+Word 1: passive
+Word 2: peaceful
+Cosine Similarity: 0.0837
+
+161.
+Word 1: extra
+Word 2: edition
+Cosine Similarity: 0.2490
+
+162.
+Word 1: accustomed
+Word 2: teach
+Cosine Similarity: -0.0322
+
+163.
+Word 1: recognized
+Word 2: realize
+Cosine Similarity: 0.6879
+
+164.
+Word 1: predaceous
+Word 2: predatory
+Cosine Similarity: -0.0051
+
+165.
+Word 1: hooked
+Word 2: lift
+Cosine Similarity: 0.0286
+
+166.
+Word 1: decorated
+Word 2: arrange
+Cosine Similarity: 0.1071
+
+167.
+Word 1: incorrect
+Word 2: right
+Cosine Similarity: 0.2079
+
+168.
+Word 1: abridged
+Word 2: reduce
+Cosine Similarity: -0.0028
+
+169.
+Word 1: outside
+Word 2: remote
+Cosine Similarity: 0.2290
+
+170.
+Word 1: basic
+Word 2: introductory
+Cosine Similarity: 0.2363
+
+171.
+Word 1: accepted
+Word 2: get
+Cosine Similarity: 0.4706
+
+172.
+Word 1: supplementary
+Word 2: subsidiary
+Cosine Similarity: 0.2914
+
+173.
+Word 1: straight
+Word 2: section
+Cosine Similarity: 0.1067
+
+174.
+Word 1: easy
+Word 2: soft
+Cosine Similarity: 0.2402
+
+175.
+Word 1: accurate
+Word 2: precise
+Cosine Similarity: 0.1627
+
+176.
+Word 1: potential
+Word 2: latency
+Cosine Similarity: 0.5125
+
+177.
+Word 1: accommodating
+Word 2: house
+Cosine Similarity: 0.1768
+
+178.
+Word 1: inaccessible
+Word 2: accessible
+Cosine Similarity: 0.0825
+
+179.
+Word 1: acute
+Word 2: sharp
+Cosine Similarity: 0.1169
+
+180.
+Word 1: acceptable
+Word 2: satisfactory
+Cosine Similarity: 0.1458
+
+181.
+Word 1: live
+Word 2: endure
+Cosine Similarity: 0.0968
+
+182.
+Word 1: substantive
+Word 2: substantial
+Cosine Similarity: 0.0045
+
+183.
+Word 1: hooked
+Word 2: seize
+Cosine Similarity: 0.0110
+
+184.
+Word 1: active
+Word 2: inactive
+Cosine Similarity: 0.2814
+
+185.
+Word 1: basic
+Word 2: incidental
+Cosine Similarity: 0.3055
+
+186.
+Word 1: shortened
+Word 2: expand
+Cosine Similarity: 0.0081
+
+187.
+Word 1: abused
+Word 2: use
+Cosine Similarity: 0.1301
+
+188.
+Word 1: additive
+Word 2: linear
+Cosine Similarity: 0.0811
+
+189.
+Word 1: live
+Word 2: recorded
+Cosine Similarity: 0.2378
+
+190.
+Word 1: raised
+Word 2: erect
+Cosine Similarity: 0.0203
+
+191.
+Word 1: spare
+Word 2: excess
+Cosine Similarity: 0.5664
+
+192.
+Word 1: repellent
+Word 2: power
+Cosine Similarity: 0.4493
+
+193.
+Word 1: clean
+Word 2: wash
+Cosine Similarity: 0.4799
+
+194.
+Word 1: recognized
+Word 2: prize
+Cosine Similarity: 0.2746
+
+195.
+Word 1: dying
+Word 2: crash
+Cosine Similarity: 0.0315
+
+196.
+Word 1: potential
+Word 2: voltage
+Cosine Similarity: 0.2480
+
+197.
+Word 1: slow
+Word 2: tedious
+Cosine Similarity: 0.0438
+
+198.
+Word 1: lacking
+Word 2: deficient
+Cosine Similarity: 0.1910
+
+199.
+Word 1: coherent
+Word 2: ordered
+Cosine Similarity: -0.0772
+
+200.
+Word 1: embossed
+Word 2: impress
+Cosine Similarity: -0.0241
+
+201.
+Word 1: clean
+Word 2: disinfect
+Cosine Similarity: 0.0380
+
+202.
+Word 1: agile
+Word 2: quick
+Cosine Similarity: 0.0362
+
+203.
+Word 1: idle
+Word 2: moon
+Cosine Similarity: 0.0067
+
+204.
+Word 1: plain
+Word 2: flat
+Cosine Similarity: 0.1550
+
+205.
+Word 1: open
+Word 2: fold
+Cosine Similarity: 0.2324
+
+206.
+Word 1: raised
+Word 2: carry
+Cosine Similarity: 0.3015
+
+207.
+Word 1: activist
+Word 2: militant
+Cosine Similarity: -0.0047
+
+208.
+Word 1: close
+Word 2: end
+Cosine Similarity: 0.6374
+
+209.
+Word 1: mucilaginous
+Word 2: gluey
+Cosine Similarity: 0.8240
+
+210.
+Word 1: slow
+Word 2: accelerate
+Cosine Similarity: 0.0652
+
+211.
+Word 1: dying
+Word 2: suffer
+Cosine Similarity: -0.0240
+
+212.
+Word 1: rank
+Word 2: excel
+Cosine Similarity: 0.0478
+
+213.
+Word 1: tangible
+Word 2: palpable
+Cosine Similarity: -0.0133
+
+214.
+Word 1: quiet
+Word 2: sound
+Cosine Similarity: -0.0205
+
+215.
+Word 1: completing
+Word 2: fill
+Cosine Similarity: 0.0750
+
+216.
+Word 1: direct
+Word 2: guide
+Cosine Similarity: 0.3596
+
+217.
+Word 1: going
+Word 2: death
+Cosine Similarity: 0.2912
+
+218.
+Word 1: plundering
+Word 2: spoil
+Cosine Similarity: nan
+
+219.
+Word 1: progressive
+Word 2: imperfect
+Cosine Similarity: 0.1619
+
+220.
+Word 1: decorated
+Word 2: decorate
+Cosine Similarity: nan
+
+221.
+Word 1: idle
+Word 2: wild
+Cosine Similarity: 0.3471
+
+222.
+Word 1: living
+Word 2: keep
+Cosine Similarity: 0.2529
+
+223.
+Word 1: open
+Word 2: shut
+Cosine Similarity: 0.2624
+
+224.
+Word 1: rich
+Word 2: poor
+Cosine Similarity: 0.0955
+
+225.
+Word 1: right
+Word 2: incorrectly
+Cosine Similarity: 0.0590
+
+226.
+Word 1: accommodating
+Word 2: suit
+Cosine Similarity: 0.0633
+
+227.
+Word 1: grasping
+Word 2: understanding
+Cosine Similarity: 0.0323
+
+228.
+Word 1: direct
+Word 2: position
+Cosine Similarity: 0.4042
+
+229.
+Word 1: absorbent
+Word 2: sorbent
+Cosine Similarity: -0.0021
+
+230.
+Word 1: close
+Word 2: open
+Cosine Similarity: 0.4453
+
+231.
+Word 1: secret
+Word 2: hidden
+Cosine Similarity: 0.2949
+
+232.
+Word 1: potential
+Word 2: possibility
+Cosine Similarity: 0.2121
+
+233.
+Word 1: spare
+Word 2: score
+Cosine Similarity: -0.0810
+
+234.
+Word 1: rank
+Word 2: gradation
+Cosine Similarity: 0.0129
+
+235.
+Word 1: inflamed
+Word 2: heat
+Cosine Similarity: 0.0562
+
+236.
+Word 1: completing
+Word 2: end
+Cosine Similarity: 0.2390
+
+237.
+Word 1: easy
+Word 2: difficult
+Cosine Similarity: 0.6049
+
+238.
+Word 1: progressive
+Word 2: liberal
+Cosine Similarity: 0.1884
+
+239.
+Word 1: completing
+Word 2: complete
+Cosine Similarity: 0.2757
+
+240.
+Word 1: spare
+Word 2: refrain
+Cosine Similarity: 0.0262
+
+241.
+Word 1: live
+Word 2: experience
+Cosine Similarity: 0.3592
+
+242.
+Word 1: granted
+Word 2: give
+Cosine Similarity: 0.5244
+
+243.
+Word 1: dark
+Word 2: scene
+Cosine Similarity: 0.1065
+
+244.
+Word 1: supplemental
+Word 2: supplementary
+Cosine Similarity: 0.1698
+
+245.
+Word 1: busy
+Word 2: engaged
+Cosine Similarity: 0.1975
+
+246.
+Word 1: objectionable
+Word 2: obnoxious
+Cosine Similarity: 0.1274
+
+247.
+Word 1: right
+Word 2: rectify
+Cosine Similarity: 0.1125
+
+248.
+Word 1: accommodating
+Word 2: admit
+Cosine Similarity: -0.0248
+
+249.
+Word 1: recognized
+Word 2: accept
+Cosine Similarity: 0.4093
+
+250.
+Word 1: abused
+Word 2: fracture
+Cosine Similarity: -0.0824
+
+251.
+Word 1: substantive
+Word 2: word
+Cosine Similarity: 0.0486
+
+252.
+Word 1: accustomed
+Word 2: change
+Cosine Similarity: 0.1654
+
+253.
+Word 1: last
+Word 2: ending
+Cosine Similarity: 0.2987
+
+254.
+Word 1: bare
+Word 2: sheathed
+Cosine Similarity: 0.0506
+
+255.
+Word 1: tenacious
+Word 2: long
+Cosine Similarity: 0.0968
+
+256.
+Word 1: given
+Word 2: accept
+Cosine Similarity: 0.3646
+
+257.
+Word 1: given
+Word 2: contribute
+Cosine Similarity: 0.2360
+
+258.
+Word 1: long
+Word 2: desire
+Cosine Similarity: 0.0950
+
+259.
+Word 1: abridged
+Word 2: decrease
+Cosine Similarity: 0.0213
+
+260.
+Word 1: supplementary
+Word 2: auxiliary
+Cosine Similarity: 0.2648
+
+261.
+Word 1: raised
+Word 2: cultivate
+Cosine Similarity: 0.0198
+
+262.
+Word 1: dull
+Word 2: change
+Cosine Similarity: 0.1715
+
+263.
+Word 1: deadly
+Word 2: lethal
+Cosine Similarity: 0.0640
+
+264.
+Word 1: right
+Word 2: justice
+Cosine Similarity: 0.1747
+
+265.
+Word 1: alive
+Word 2: animated
+Cosine Similarity: 0.0001
+
+266.
+Word 1: feathered
+Word 2: cover
+Cosine Similarity: 0.0418
+
+267.
+Word 1: right
+Word 2: abstraction
+Cosine Similarity: 0.0535
+
+268.
+Word 1: actual
+Word 2: genuine
+Cosine Similarity: 0.2553
+
+269.
+Word 1: cut
+Word 2: hack
+Cosine Similarity: 0.5330
+
+270.
+Word 1: living
+Word 2: resource
+Cosine Similarity: 0.3361
+
+271.
+Word 1: abstract
+Word 2: teacher
+Cosine Similarity: 0.1859
+
+272.
+Word 1: completing
+Word 2: finish
+Cosine Similarity: 0.2625
+
+273.
+Word 1: essential
+Word 2: must
+Cosine Similarity: 0.4516
+
+274.
+Word 1: viscous
+Word 2: sticky
+Cosine Similarity: 0.1623
+
+275.
+Word 1: unacknowledged
+Word 2: acknowledged
+Cosine Similarity: -0.0013
+
+276.
+Word 1: accepted
+Word 2: reject
+Cosine Similarity: 0.2011
+
+277.
+Word 1: accustomed
+Word 2: customary
+Cosine Similarity: 0.1744
+
+278.
+Word 1: slow
+Word 2: delay
+Cosine Similarity: 0.1995
+
+279.
+Word 1: given
+Word 2: express
+Cosine Similarity: 0.1825
+
+280.
+Word 1: equal
+Word 2: compete
+Cosine Similarity: 0.0643
+
+281.
+Word 1: repellent
+Word 2: compound
+Cosine Similarity: 0.2172
+
+282.
+Word 1: lacking
+Word 2: lack
+Cosine Similarity: 0.3451
+
+283.
+Word 1: quiet
+Word 2: pacify
+Cosine Similarity: -0.1044
+
+284.
+Word 1: dependent
+Word 2: recipient
+Cosine Similarity: 0.0831
+
+285.
+Word 1: abstract
+Word 2: brief
+Cosine Similarity: 0.2694
+
+286.
+Word 1: bare
+Word 2: tell
+Cosine Similarity: 0.0798
+
+287.
+Word 1: outside
+Word 2: inside
+Cosine Similarity: 0.4994
+
+288.
+Word 1: thick
+Word 2: thin
+Cosine Similarity: 0.4570
+
+289.
+Word 1: mounted
+Word 2: organize
+Cosine Similarity: 0.0507
+
+290.
+Word 1: viscid
+Word 2: gluey
+Cosine Similarity: 0.2203
+
+291.
+Word 1: scarce
+Word 2: hardly
+Cosine Similarity: 0.2772
+
+292.
+Word 1: existent
+Word 2: real
+Cosine Similarity: 0.2673
+
+293.
+Word 1: active
+Word 2: alive
+Cosine Similarity: 0.3163
+
+294.
+Word 1: living
+Word 2: subsist
+Cosine Similarity: 0.1434
+
+295.
+Word 1: capable
+Word 2: subject
+Cosine Similarity: 0.3765
+
+296.
+Word 1: rank
+Word 2: status
+Cosine Similarity: 0.4044
+
+297.
+Word 1: given
+Word 2: starve
+Cosine Similarity: 0.1170
+
+298.
+Word 1: grasping
+Word 2: hold
+Cosine Similarity: 0.5900
+
+299.
+Word 1: addressed
+Word 2: instrument
+Cosine Similarity: 0.1465
+
+300.
+Word 1: grasping
+Word 2: digest
+Cosine Similarity: 0.1288
+
+301.
+Word 1: quick
+Word 2: prompt
+Cosine Similarity: 0.2448
+
+302.
+Word 1: inactive
+Word 2: static
+Cosine Similarity: 0.1092
+
+303.
+Word 1: recognized
+Word 2: address
+Cosine Similarity: 0.2834
+
+304.
+Word 1: essential
+Word 2: thing
+Cosine Similarity: 0.3279
+
+305.
+Word 1: direct
+Word 2: directly
+Cosine Similarity: 0.6113
+
+306.
+Word 1: tangible
+Word 2: real
+Cosine Similarity: 0.3852
+
+307.
+Word 1: extra
+Word 2: additional
+Cosine Similarity: 0.6755
+
+308.
+Word 1: wanting
+Word 2: absent
+Cosine Similarity: -0.0107
+
+309.
+Word 1: going
+Word 2: come
+Cosine Similarity: 0.4368
+
+310.
+Word 1: clean
+Word 2: tidy
+Cosine Similarity: 0.0107
+
+311.
+Word 1: abstract
+Word 2: concept
+Cosine Similarity: 0.2532
+
+312.
+Word 1: hot
+Word 2: blistering
+Cosine Similarity: 0.0342
+
+313.
+Word 1: acknowledged
+Word 2: recognise
+Cosine Similarity: 0.0049
+
+314.
+Word 1: dark
+Word 2: illumination
+Cosine Similarity: 0.1702
+
+315.
+Word 1: spare
+Word 2: free
+Cosine Similarity: 0.1584
+
+316.
+Word 1: basic
+Word 2: commodity
+Cosine Similarity: 0.1950
+
+317.
+Word 1: mounted
+Word 2: wax
+Cosine Similarity: 0.1382
+
+318.
+Word 1: flat
+Word 2: natural
+Cosine Similarity: 0.2123
+
+319.
+Word 1: dependent
+Word 2: subject
+Cosine Similarity: 0.2243
+
+320.
+Word 1: adjective
+Word 2: procedural
+Cosine Similarity: 0.0016
+
+321.
+Word 1: wanting
+Word 2: ambition
+Cosine Similarity: -0.0626
+
+322.
+Word 1: hooked
+Word 2: pinch
+Cosine Similarity: 0.0082
+
+323.
+Word 1: comparative
+Word 2: relative
+Cosine Similarity: 0.1079
+
+324.
+Word 1: secret
+Word 2: information
+Cosine Similarity: 0.5531
+
+325.
+Word 1: objective
+Word 2: thing
+Cosine Similarity: 0.0717
+
+326.
+Word 1: recognised
+Word 2: license
+Cosine Similarity: 0.2818
+
+327.
+Word 1: plundering
+Word 2: take
+Cosine Similarity: 0.5519
+
+328.
+Word 1: extra
+Word 2: excess
+Cosine Similarity: 0.4545
+
+329.
+Word 1: adhesive
+Word 2: material
+Cosine Similarity: 0.2660
+
+330.
+Word 1: direct
+Word 2: inverse
+Cosine Similarity: 0.0781
+
+331.
+Word 1: wanting
+Word 2: wish
+Cosine Similarity: 0.0644
+
+332.
+Word 1: slow
+Word 2: decrease
+Cosine Similarity: 0.4231
+
+333.
+Word 1: wanting
+Word 2: want
+Cosine Similarity: 0.0650
+
+334.
+Word 1: flat
+Word 2: indirectly
+Cosine Similarity: 0.0250
+
+335.
+Word 1: bare
+Word 2: uncover
+Cosine Similarity: 0.0081
+
+336.
+Word 1: right
+Word 2: hand
+Cosine Similarity: 0.4803
+
+337.
+Word 1: ideal
+Word 2: criterion
+Cosine Similarity: 0.0891
+
+338.
+Word 1: direct
+Word 2: instruct
+Cosine Similarity: 0.0610
+
+339.
+Word 1: objective
+Word 2: documentary
+Cosine Similarity: 0.1016
+
+340.
+Word 1: quiet
+Word 2: still
+Cosine Similarity: 0.0456
+
+341.
+Word 1: embossed
+Word 2: block
+Cosine Similarity: 0.2280
+
+342.
+Word 1: quiet
+Word 2: order
+Cosine Similarity: 0.0847
+
+343.
+Word 1: retired
+Word 2: discard
+Cosine Similarity: nan
+
+344.
+Word 1: inert
+Word 2: neutral
+Cosine Similarity: 0.0644
+
+345.
+Word 1: dependent
+Word 2: charge
+Cosine Similarity: 0.3992
+
+346.
+Word 1: clean
+Word 2: deprive
+Cosine Similarity: 0.0369
+
+347.
+Word 1: lacking
+Word 2: missing
+Cosine Similarity: 0.4356
+
+348.
+Word 1: slow
+Word 2: fast
+Cosine Similarity: 0.3822
+
+349.
+Word 1: open
+Word 2: unresolved
+Cosine Similarity: -0.0115
+
+350.
+Word 1: flat
+Word 2: sharp
+Cosine Similarity: 0.3261
+
+351.
+Word 1: spare
+Word 2: give
+Cosine Similarity: 0.4072
+
+352.
+Word 1: completing
+Word 2: play
+Cosine Similarity: 0.0474
+
+353.
+Word 1: wanting
+Word 2: miss
+Cosine Similarity: 0.0317
+
+354.
+Word 1: quick
+Word 2: immediate
+Cosine Similarity: 0.2070
+
+355.
+Word 1: easy
+Word 2: prosperous
+Cosine Similarity: 0.4089
+
+356.
+Word 1: extra
+Word 2: superfluous
+Cosine Similarity: 0.1001
+
+357.
+Word 1: equal
+Word 2: person
+Cosine Similarity: 0.3617
+
+358.
+Word 1: last
+Word 2: net
+Cosine Similarity: 0.2786
+
+359.
+Word 1: open
+Word 2: gap
+Cosine Similarity: 0.2258
+
+360.
+Word 1: acute
+Word 2: ague
+Cosine Similarity: 0.1758
+
+361.
+Word 1: unequal
+Word 2: adequate
+Cosine Similarity: 0.1807
+
+362.
+Word 1: alkaline
+Word 2: acidic
+Cosine Similarity: 0.2646
+
+363.
+Word 1: accurate
+Word 2: exact
+Cosine Similarity: 0.1405
+
+364.
+Word 1: clean
+Word 2: unclean
+Cosine Similarity: 0.0754
+
+365.
+Word 1: granted
+Word 2: deny
+Cosine Similarity: 0.2059
+
+366.
+Word 1: emerging
+Word 2: issue
+Cosine Similarity: 0.2118
+
+367.
+Word 1: mounted
+Word 2: initiate
+Cosine Similarity: 0.0623
+
+368.
+Word 1: incorrect
+Word 2: faulty
+Cosine Similarity: 0.2415
+
+369.
+Word 1: activated
+Word 2: trip
+Cosine Similarity: -0.0112
+
+370.
+Word 1: scarce
+Word 2: scarcely
+Cosine Similarity: 0.0226
+
+371.
+Word 1: plain
+Word 2: bare
+Cosine Similarity: 0.1555
+
+372.
+Word 1: right
+Word 2: compensate
+Cosine Similarity: 0.3146
+
+373.
+Word 1: adhesive
+Word 2: paste
+Cosine Similarity: 0.4392
+
+374.
+Word 1: rank
+Word 2: line
+Cosine Similarity: 0.1582
+
+375.
+Word 1: progressive
+Word 2: regressive
+Cosine Similarity: 0.3720
+
+376.
+Word 1: completing
+Word 2: top
+Cosine Similarity: 0.0529
+
+377.
+Word 1: living
+Word 2: experience
+Cosine Similarity: 0.2634
+
+378.
+Word 1: addressed
+Word 2: ask
+Cosine Similarity: 0.3039
+
+379.
+Word 1: feathered
+Word 2: feather
+Cosine Similarity: 0.2969
+
+380.
+Word 1: essential
+Word 2: indispensable
+Cosine Similarity: 0.0762
+
+381.
+Word 1: wanting
+Word 2: search
+Cosine Similarity: -0.0309
+
+382.
+Word 1: abstract
+Word 2: consider
+Cosine Similarity: 0.1846
+
+383.
+Word 1: dependant
+Word 2: recipient
+Cosine Similarity: 0.0577
+
+384.
+Word 1: lacking
+Word 2: want
+Cosine Similarity: 0.1560
+
+385.
+Word 1: relative
+Word 2: organism
+Cosine Similarity: 0.1998
+
+386.
+Word 1: resistant
+Word 2: repellent
+Cosine Similarity: 0.1656
+
+387.
+Word 1: inadequate
+Word 2: unequal
+Cosine Similarity: 0.0485
+
+388.
+Word 1: inadequate
+Word 2: short
+Cosine Similarity: 0.0040
+
+389.
+Word 1: shortened
+Word 2: shorten
+Cosine Similarity: 0.0295
+
+390.
+Word 1: able
+Word 2: unable
+Cosine Similarity: 0.2973
+
+391.
+Word 1: lacking
+Word 2: miss
+Cosine Similarity: 0.0368
+
+392.
+Word 1: acid
+Word 2: compound
+Cosine Similarity: 0.4475
+
+393.
+Word 1: straight
+Word 2: stretch
+Cosine Similarity: 0.1227
+
+394.
+Word 1: given
+Word 2: think
+Cosine Similarity: 0.2311
+
+395.
+Word 1: inactive
+Word 2: motionless
+Cosine Similarity: 0.0009
+
+396.
+Word 1: grasping
+Word 2: figure
+Cosine Similarity: 0.2632
+
+397.
+Word 1: emerging
+Word 2: shell
+Cosine Similarity: 0.3716
+
+398.
+Word 1: outside
+Word 2: exterior
+Cosine Similarity: 0.1781
+
+399.
+Word 1: cut
+Word 2: canal
+Cosine Similarity: 0.2521
+
+400.
+Word 1: wide
+Word 2: narrow
+Cosine Similarity: 0.0476
+
+401.
+Word 1: adequate
+Word 2: equal
+Cosine Similarity: 0.3226
+
+402.
+Word 1: activated
+Word 2: change
+Cosine Similarity: 0.0164
+
+403.
+Word 1: abused
+Word 2: treat
+Cosine Similarity: -0.0474
+
+404.
+Word 1: wide
+Word 2: broad
+Cosine Similarity: 0.2867
+
+405.
+Word 1: substantive
+Word 2: noun
+Cosine Similarity: -0.0048
+
+406.
+Word 1: acknowledged
+Word 2: react
+Cosine Similarity: 0.1014
+
+407.
+Word 1: resinous
+Word 2: tarry
+Cosine Similarity: 0.0248
+
+408.
+Word 1: potential
+Word 2: possible
+Cosine Similarity: 0.3927
+
+409.
+Word 1: cut
+Word 2: expand
+Cosine Similarity: 0.5042
+
+410.
+Word 1: progressive
+Word 2: adult
+Cosine Similarity: 0.0919
+
+411.
+Word 1: direct
+Word 2: administer
+Cosine Similarity: 0.2239
+
+412.
+Word 1: accepted
+Word 2: consent
+Cosine Similarity: 0.2306
+
+413.
+Word 1: shortened
+Word 2: change
+Cosine Similarity: 0.2834
+
+414.
+Word 1: dead
+Word 2: utterly
+Cosine Similarity: 0.2154
+
+415.
+Word 1: real
+Word 2: coin
+Cosine Similarity: 0.2733
+
+416.
+Word 1: close
+Word 2: closing
+Cosine Similarity: 0.3500
+
+417.
+Word 1: retired
+Word 2: prorogue
+Cosine Similarity: nan
+
+418.
+Word 1: busy
+Word 2: work
+Cosine Similarity: 0.2038
+
+419.
+Word 1: accepted
+Word 2: recognized
+Cosine Similarity: 0.1856
+
+420.
+Word 1: retired
+Word 2: travel
+Cosine Similarity: 0.0740
+
+421.
+Word 1: adorned
+Word 2: landscape
+Cosine Similarity: nan
+
+422.
+Word 1: retired
+Word 2: advance
+Cosine Similarity: 0.1498
+
+423.
+Word 1: living
+Word 2: survival
+Cosine Similarity: 0.2393
+
+424.
+Word 1: lacking
+Word 2: exclude
+Cosine Similarity: 0.1009
+
+425.
+Word 1: wide
+Word 2: widely
+Cosine Similarity: 0.4084
+
+426.
+Word 1: bare
+Word 2: scanty
+Cosine Similarity: 0.1409
+
+427.
+Word 1: faithful
+Word 2: following
+Cosine Similarity: 0.0938
+
+428.
+Word 1: retired
+Word 2: bed
+Cosine Similarity: 0.0665
+
+429.
+Word 1: open
+Word 2: undo
+Cosine Similarity: 0.1731
+
+430.
+Word 1: acute
+Word 2: chronic
+Cosine Similarity: 0.6140
+
+431.
+Word 1: plundering
+Word 2: plunder
+Cosine Similarity: 0.3255
+
+432.
+Word 1: concrete
+Word 2: cement
+Cosine Similarity: 0.7930
+
+433.
+Word 1: objective
+Word 2: goal
+Cosine Similarity: 0.1868
+
+434.
+Word 1: absolute
+Word 2: rank
+Cosine Similarity: 0.2704
+
+435.
+Word 1: direct
+Word 2: make
+Cosine Similarity: 0.4002
+
+436.
+Word 1: away
+Word 2: aside
+Cosine Similarity: 0.0925
+
+437.
+Word 1: right
+Word 2: change
+Cosine Similarity: 0.2512
+
+438.
+Word 1: sluggish
+Word 2: slow
+Cosine Similarity: 0.2751
+
+439.
+Word 1: direct
+Word 2: route
+Cosine Similarity: 0.3526
+
+440.
+Word 1: accepted
+Word 2: welcome
+Cosine Similarity: 0.4258
+
+441.
+Word 1: brisk
+Word 2: accelerate
+Cosine Similarity: 0.1615
+
+442.
+Word 1: straight
+Word 2: coiled
+Cosine Similarity: 0.0309
+
+443.
+Word 1: shortened
+Word 2: cut
+Cosine Similarity: 0.1543
+
+444.
+Word 1: recognized
+Word 2: welcome
+Cosine Similarity: -0.0386
+
+445.
+Word 1: away
+Word 2: home
+Cosine Similarity: 0.2458
+
+446.
+Word 1: going
+Word 2: end
+Cosine Similarity: 0.3722
+
+447.
+Word 1: inactive
+Word 2: operational
+Cosine Similarity: 0.3250
+
+448.
+Word 1: given
+Word 2: disposed
+Cosine Similarity: 0.2344
+
+449.
+Word 1: living
+Word 2: subsistence
+Cosine Similarity: 0.0153
+
+450.
+Word 1: scarce
+Word 2: abundant
+Cosine Similarity: 0.0413
+
+451.
+Word 1: substantive
+Word 2: adjective
+Cosine Similarity: -0.0798
+
+452.
+Word 1: rich
+Word 2: lean
+Cosine Similarity: 0.1450
+
+453.
+Word 1: plain
+Word 2: land
+Cosine Similarity: 0.1831
+
+454.
+Word 1: given
+Word 2: render
+Cosine Similarity: 0.1078
+
+455.
+Word 1: capable
+Word 2: incapable
+Cosine Similarity: 0.6032
+
+456.
+Word 1: adorned
+Word 2: change
+Cosine Similarity: nan
+
+457.
+Word 1: straight
+Word 2: curved
+Cosine Similarity: 0.1702
+
+458.
+Word 1: viscid
+Word 2: sticky
+Cosine Similarity: 0.1236
+
+459.
+Word 1: ideal
+Word 2: value
+Cosine Similarity: 0.1266
+
+460.
+Word 1: dark
+Word 2: light
+Cosine Similarity: 0.3281
+
+461.
+Word 1: abused
+Word 2: curse
+Cosine Similarity: 0.1078
+
+462.
+Word 1: dying
+Word 2: play
+Cosine Similarity: 0.1246
+
+463.
+Word 1: comparative
+Word 2: adverb
+Cosine Similarity: -0.0490
+
+464.
+Word 1: dull
+Word 2: weaken
+Cosine Similarity: 0.2443
+
+465.
+Word 1: active
+Word 2: person
+Cosine Similarity: 0.3395
+
+466.
+Word 1: dull
+Word 2: soften
+Cosine Similarity: 0.0205
+
+467.
+Word 1: last
+Word 2: first
+Cosine Similarity: 0.6013
+
+468.
+Word 1: alive
+Word 2: awake
+Cosine Similarity: 0.0509
+
+469.
+Word 1: acknowledged
+Word 2: declare
+Cosine Similarity: 0.0380
+
+470.
+Word 1: grasping
+Word 2: control
+Cosine Similarity: 0.4033
+
+471.
+Word 1: hooked
+Word 2: loop
+Cosine Similarity: 0.4057
+
+472.
+Word 1: wanting
+Word 2: like
+Cosine Similarity: 0.0372
+
+473.
+Word 1: recognized
+Word 2: recognize
+Cosine Similarity: 0.0455
+
+474.
+Word 1: equal
+Word 2: touch
+Cosine Similarity: 0.4580
+
+475.
+Word 1: accustomed
+Word 2: accustom
+Cosine Similarity: 0.1783
+
+476.
+Word 1: abridged
+Word 2: restrict
+Cosine Similarity: -0.0623
+
+477.
+Word 1: acute
+Word 2: accent
+Cosine Similarity: 0.1282
+
+478.
+Word 1: cut
+Word 2: free
+Cosine Similarity: 0.2858
+
+479.
+Word 1: recognized
+Word 2: license
+Cosine Similarity: 0.2246
+
+480.
+Word 1: abused
+Word 2: slang
+Cosine Similarity: 0.0711
+
+481.
+Word 1: plain
+Word 2: unmixed
+Cosine Similarity: 0.0256
+
+482.
+Word 1: addressed
+Word 2: address
+Cosine Similarity: 0.1663
+
+483.
+Word 1: wrong
+Word 2: treat
+Cosine Similarity: 0.1138
+
+484.
+Word 1: grasping
+Word 2: dig
+Cosine Similarity: 0.0620
+
+485.
+Word 1: addressed
+Word 2: target
+Cosine Similarity: 0.1192
+
+486.
+Word 1: straight
+Word 2: curly
+Cosine Similarity: 0.0248
+
+487.
+Word 1: straight
+Word 2: indirectly
+Cosine Similarity: 0.2526
+
+488.
+Word 1: brisk
+Word 2: tonic
+Cosine Similarity: 0.0319
+
+489.
+Word 1: given
+Word 2: throw
+Cosine Similarity: 0.2029
+
+490.
+Word 1: wrong
+Word 2: faulty
+Cosine Similarity: 0.1046
+
+491.
+Word 1: acknowledged
+Word 2: acknowledge
+Cosine Similarity: 0.0320
+
+492.
+Word 1: right
+Word 2: tract
+Cosine Similarity: 0.1705
+
+493.
+Word 1: remote
+Word 2: removed
+Cosine Similarity: 0.1371
+
+494.
+Word 1: eruptive
+Word 2: aqueous
+Cosine Similarity: 0.0136
+
+495.
+Word 1: quick
+Word 2: quickly
+Cosine Similarity: 0.1946
+
+496.
+Word 1: cut
+Word 2: switch
+Cosine Similarity: 0.1896
+
+497.
+Word 1: mounted
+Word 2: increase
+Cosine Similarity: 0.1437
+
+498.
+Word 1: wanting
+Word 2: desire
+Cosine Similarity: 0.3682
+
+499.
+Word 1: direct
+Word 2: verbatim
+Cosine Similarity: 0.0980
+
+500.
+Word 1: dark
+Word 2: condition
+Cosine Similarity: 0.4163
+
+501.
+Word 1: objective
+Word 2: object
+Cosine Similarity: 0.3177
+
+502.
+Word 1: clean
+Word 2: unfairly
+Cosine Similarity: 0.1287
+
+503.
+Word 1: rank
+Word 2: range
+Cosine Similarity: 0.1224
+
+504.
+Word 1: plundering
+Word 2: steal
+Cosine Similarity: -0.0268
+
+505.
+Word 1: adorned
+Word 2: adorn
+Cosine Similarity: nan
+
+506.
+Word 1: potential
+Word 2: prospect
+Cosine Similarity: 0.1053
+
+507.
+Word 1: adorned
+Word 2: equip
+Cosine Similarity: nan
+
+508.
+Word 1: concrete
+Word 2: paving
+Cosine Similarity: 0.0991
+
+509.
+Word 1: spare
+Word 2: scanty
+Cosine Similarity: -0.0023
+
+510.
+Word 1: living
+Word 2: dead
+Cosine Similarity: 0.4243
+
+511.
+Word 1: adequate
+Word 2: tolerable
+Cosine Similarity: 0.0287
+
+512.
+Word 1: acknowledged
+Word 2: receipt
+Cosine Similarity: 0.2383
+
+513.
+Word 1: additive
+Word 2: addition
+Cosine Similarity: 0.1107
+
+514.
+Word 1: bare
+Word 2: clear
+Cosine Similarity: 0.1501
+
+515.
+Word 1: essential
+Word 2: requirement
+Cosine Similarity: 0.3874
+
+516.
+Word 1: embossed
+Word 2: raised
+Cosine Similarity: 0.0832
+
+517.
+Word 1: direct
+Word 2: collateral
+Cosine Similarity: 0.2272
+
+518.
+Word 1: shortened
+Word 2: decrease
+Cosine Similarity: 0.0202
+
+519.
+Word 1: close
+Word 2: shut
+Cosine Similarity: 0.1984
+
+520.
+Word 1: going
+Word 2: exit
+Cosine Similarity: 0.2306
+
+521.
+Word 1: concrete
+Word 2: cover
+Cosine Similarity: 0.2266
+
+522.
+Word 1: tight
+Word 2: loose
+Cosine Similarity: 0.1012
+
+523.
+Word 1: retired
+Word 2: withdraw
+Cosine Similarity: 0.4703
+
+524.
+Word 1: equal
+Word 2: differ
+Cosine Similarity: 0.6414
+
+525.
+Word 1: chronic
+Word 2: continuing
+Cosine Similarity: 0.0550
+
+526.
+Word 1: objective
+Word 2: lens
+Cosine Similarity: 0.2016
+
+527.
+Word 1: new
+Word 2: worn
+Cosine Similarity: 0.2580
+
+528.
+Word 1: live
+Word 2: resilient
+Cosine Similarity: -0.0628
+
+529.
+Word 1: absolute
+Word 2: abstraction
+Cosine Similarity: 0.2319
+
+530.
+Word 1: adorned
+Word 2: invest
+Cosine Similarity: nan
+
+531.
+Word 1: effective
+Word 2: efficient
+Cosine Similarity: 0.4525
+
+532.
+Word 1: emerging
+Word 2: escape
+Cosine Similarity: 0.0919
+
+533.
+Word 1: dying
+Word 2: birth
+Cosine Similarity: 0.0848
+
+534.
+Word 1: addressed
+Word 2: communicate
+Cosine Similarity: 0.4548
+
+535.
+Word 1: direct
+Word 2: retrograde
+Cosine Similarity: 0.1758
+
+536.
+Word 1: dull
+Word 2: bright
+Cosine Similarity: 0.0290
+
+537.
+Word 1: resistant
+Word 2: immune
+Cosine Similarity: 0.2024
+
+538.
+Word 1: raised
+Word 2: lower
+Cosine Similarity: 0.3324
+
+539.
+Word 1: faulty
+Word 2: defective
+Cosine Similarity: 0.1961
+
+540.
+Word 1: new
+Word 2: modern
+Cosine Similarity: 0.2717
+
+541.
+Word 1: emerging
+Word 2: surface
+Cosine Similarity: 0.2208
+
+542.
+Word 1: accumulative
+Word 2: cumulative
+Cosine Similarity: -0.0173
+
+543.
+Word 1: passive
+Word 2: active
+Cosine Similarity: 0.4142
+
+544.
+Word 1: true
+Word 2: alignment
+Cosine Similarity: 0.1571
+
+545.
+Word 1: accepted
+Word 2: refuse
+Cosine Similarity: 0.1568
+
+546.
+Word 1: bare
+Word 2: marginal
+Cosine Similarity: 0.1819
+
+547.
+Word 1: active
+Word 2: dormant
+Cosine Similarity: 0.0399
+
+548.
+Word 1: accepted
+Word 2: accept
+Cosine Similarity: 0.5271
+
+549.
+Word 1: deficient
+Word 2: inferior
+Cosine Similarity: 0.1047
+
+550.
+Word 1: accepted
+Word 2: evaluate
+Cosine Similarity: 0.0493
+
+551.
+Word 1: busy
+Word 2: interfering
+Cosine Similarity: 0.1325
+
+552.
+Word 1: open
+Word 2: closed
+Cosine Similarity: 0.3364
+
+553.
+Word 1: living
+Word 2: support
+Cosine Similarity: 0.4186
+
+554.
+Word 1: decorated
+Word 2: change
+Cosine Similarity: 0.0488
+
+555.
+Word 1: idle
+Word 2: operation
+Cosine Similarity: 0.3120
+
+556.
+Word 1: potential
+Word 2: likely
+Cosine Similarity: 0.3273
+
+557.
+Word 1: rank
+Word 2: body
+Cosine Similarity: 0.1228
+
+558.
+Word 1: unfaithful
+Word 2: faithful
+Cosine Similarity: nan
+
+559.
+Word 1: equal
+Word 2: change
+Cosine Similarity: 0.6208
+
+560.
+Word 1: given
+Word 2: administer
+Cosine Similarity: 0.2040
+
+561.
+Word 1: viscid
+Word 2: mucilaginous
+Cosine Similarity: 0.2017
+
+562.
+Word 1: receptive
+Word 2: sensory
+Cosine Similarity: 0.1171
+
+563.
+Word 1: hooked
+Word 2: hit
+Cosine Similarity: -0.0230
+
+564.
+Word 1: feathered
+Word 2: grow
+Cosine Similarity: 0.1792
+
+565.
+Word 1: abstract
+Word 2: right
+Cosine Similarity: 0.0489
+
+566.
+Word 1: extra
+Word 2: artifact
+Cosine Similarity: 0.0450
+
+567.
+Word 1: dependent
+Word 2: qualified
+Cosine Similarity: 0.3596
+
+568.
+Word 1: granted
+Word 2: allow
+Cosine Similarity: 0.1504
+
+569.
+Word 1: abridged
+Word 2: expand
+Cosine Similarity: 0.0639
+
+570.
+Word 1: direct
+Word 2: instrument
+Cosine Similarity: 0.3051
+
+571.
+Word 1: objective
+Word 2: point
+Cosine Similarity: 0.1557
+
+572.
+Word 1: deficient
+Word 2: substandard
+Cosine Similarity: 0.0109
+
+573.
+Word 1: active
+Word 2: fighting
+Cosine Similarity: 0.1403
+
+574.
+Word 1: open
+Word 2: outside
+Cosine Similarity: 0.3665
+
+575.
+Word 1: acknowledged
+Word 2: notice
+Cosine Similarity: 0.1037
+
+576.
+Word 1: abused
+Word 2: abuse
+Cosine Similarity: 0.1176
+
+577.
+Word 1: plundering
+Word 2: destroy
+Cosine Similarity: -0.0040
+
+578.
+Word 1: close
+Word 2: faithful
+Cosine Similarity: 0.1950
+
+579.
+Word 1: decorated
+Word 2: adorn
+Cosine Similarity: 0.1701
+
+580.
+Word 1: recognized
+Word 2: realise
+Cosine Similarity: 0.6254
+
+581.
+Word 1: recognised
+Word 2: accredit
+Cosine Similarity: 0.0162
+
+582.
+Word 1: last
+Word 2: rank
+Cosine Similarity: 0.1648
+
+583.
+Word 1: able
+Word 2: capable
+Cosine Similarity: 0.4838
+
+584.
+Word 1: shortened
+Word 2: reduce
+Cosine Similarity: 0.0096
+
+585.
+Word 1: last
+Word 2: activity
+Cosine Similarity: 0.3661
+
+586.
+Word 1: remote
+Word 2: device
+Cosine Similarity: 0.6241
+
+587.
+Word 1: surgical
+Word 2: operative
+Cosine Similarity: 0.3140
+
+588.
+Word 1: dull
+Word 2: cloud
+Cosine Similarity: 0.0616
+
+589.
+Word 1: clean
+Word 2: soap
+Cosine Similarity: 0.2813
+
+590.
+Word 1: actual
+Word 2: factual
+Cosine Similarity: 0.0397
+
+591.
+Word 1: mounted
+Word 2: advance
+Cosine Similarity: 0.1264
+
+592.
+Word 1: actual
+Word 2: real
+Cosine Similarity: 0.5237
+
+593.
+Word 1: addressed
+Word 2: label
+Cosine Similarity: 0.1164
+
+594.
+Word 1: embossed
+Word 2: stamp
+Cosine Similarity: 0.0771
+
+595.
+Word 1: long
+Word 2: short
+Cosine Similarity: 0.9477
+
+596.
+Word 1: acknowledged
+Word 2: sustain
+Cosine Similarity: 0.0229
+
+597.
+Word 1: feathered
+Word 2: square
+Cosine Similarity: 0.1353
+
+598.
+Word 1: equal
+Word 2: tie
+Cosine Similarity: 0.1052
+
+599.
+Word 1: adjective
+Word 2: positive
+Cosine Similarity: 0.0382
+
+600.
+Word 1: comparative
+Word 2: adjective
+Cosine Similarity: 0.0073
+
+601.
+Word 1: accommodating
+Word 2: change
+Cosine Similarity: -0.0025
+
+602.
+Word 1: unused
+Word 2: idle
+Cosine Similarity: 0.0110
+
+603.
+Word 1: spare
+Word 2: trim
+Cosine Similarity: 0.3727
+
+604.
+Word 1: unequal
+Word 2: equal
+Cosine Similarity: 0.1471
+
+605.
+Word 1: gluey
+Word 2: viscous
+Cosine Similarity: 0.4635
+
+606.
+Word 1: coherent
+Word 2: incoherent
+Cosine Similarity: -0.0669
+
+607.
+Word 1: feathery
+Word 2: featherlike
+Cosine Similarity: 0.0307
+
+608.
+Word 1: living
+Word 2: people
+Cosine Similarity: 0.2673
+
+609.
+Word 1: live
+Word 2: bachelor
+Cosine Similarity: 0.1759
+
+610.
+Word 1: cut
+Word 2: severance
+Cosine Similarity: -0.0010
+
+611.
+Word 1: easy
+Word 2: quickly
+Cosine Similarity: 0.2979
+
+612.
+Word 1: abstract
+Word 2: see
+Cosine Similarity: 0.1878
+
+613.
+Word 1: tenacious
+Word 2: persistent
+Cosine Similarity: 0.0346
+
+614.
+Word 1: ideal
+Word 2: idea
+Cosine Similarity: 0.2402
+
+615.
+Word 1: given
+Word 2: perform
+Cosine Similarity: 0.2778
+
+616.
+Word 1: idle
+Word 2: run
+Cosine Similarity: 0.2602
+
+617.
+Word 1: bare
+Word 2: stripped
+Cosine Similarity: -0.0464
+
+618.
+Word 1: right
+Word 2: privilege
+Cosine Similarity: 0.3927
+
+619.
+Word 1: dead
+Word 2: time
+Cosine Similarity: 0.1166
+
+620.
+Word 1: bare
+Word 2: air
+Cosine Similarity: 0.2101
+
+621.
+Word 1: decorated
+Word 2: deck
+Cosine Similarity: 0.0016
+
+622.
+Word 1: accommodative
+Word 2: cooperative
+Cosine Similarity: -0.0186
+
+623.
+Word 1: plentiful
+Word 2: ample
+Cosine Similarity: 0.1143
+
+624.
+Word 1: flat
+Word 2: unconditional
+Cosine Similarity: 0.0956
+
+625.
+Word 1: tangible
+Word 2: intangible
+Cosine Similarity: 0.4157
+
+626.
+Word 1: passive
+Word 2: inactive
+Cosine Similarity: 0.1039
+
+627.
+Word 1: long
+Word 2: ache
+Cosine Similarity: 0.1879
+
+628.
+Word 1: open
+Word 2: butterfly
+Cosine Similarity: 0.1003
+
+629.
+Word 1: abstract
+Word 2: absolute
+Cosine Similarity: 0.1848
+
+630.
+Word 1: emerging
+Word 2: originate
+Cosine Similarity: 0.0705
+
+631.
+Word 1: acknowledged
+Word 2: communicate
+Cosine Similarity: 0.0557
+
+632.
+Word 1: feathered
+Word 2: paddle
+Cosine Similarity: -0.0820
+
+633.
+Word 1: bare
+Word 2: covered
+Cosine Similarity: 0.2028
+
+634.
+Word 1: last
+Word 2: wear
+Cosine Similarity: 0.2395
+
+635.
+Word 1: emerging
+Word 2: rising
+Cosine Similarity: 0.0344
+
+636.
+Word 1: secret
+Word 2: mysterious
+Cosine Similarity: 0.0194
+
+637.
+Word 1: going
+Word 2: castle
+Cosine Similarity: 0.1356
+
+638.
+Word 1: open
+Word 2: tournament
+Cosine Similarity: 0.0815
+
+639.
+Word 1: outside
+Word 2: region
+Cosine Similarity: 0.5101
+
+640.
+Word 1: surgical
+Word 2: medical
+Cosine Similarity: 0.2866
+
+641.
+Word 1: granted
+Word 2: agree
+Cosine Similarity: 0.2701
+
+642.
+Word 1: acknowledged
+Word 2: deny
+Cosine Similarity: 0.0346
+
+643.
+Word 1: inflamed
+Word 2: wake
+Cosine Similarity: 0.0264
+
+644.
+Word 1: inadequate
+Word 2: poor
+Cosine Similarity: 0.1079
+
+645.
+Word 1: quiet
+Word 2: noisy
+Cosine Similarity: 0.0292
+
+646.
+Word 1: plundering
+Word 2: violate
+Cosine Similarity: -0.0568
+
+647.
+Word 1: additive
+Word 2: nonlinear
+Cosine Similarity: -0.0279
+
+648.
+Word 1: live
+Word 2: exist
+Cosine Similarity: 0.3645
+
+649.
+Word 1: raised
+Word 2: lowered
+Cosine Similarity: 0.4247
+
+650.
+Word 1: addressed
+Word 2: approach
+Cosine Similarity: 0.0386
+
+651.
+Word 1: wanting
+Word 2: demand
+Cosine Similarity: 0.0009
+
+652.
+Word 1: accommodating
+Word 2: seat
+Cosine Similarity: 0.1019
+
+653.
+Word 1: remote
+Word 2: distant
+Cosine Similarity: 0.6006
+
+654.
+Word 1: accommodating
+Word 2: comply
+Cosine Similarity: 0.0173
+
+655.
+Word 1: recognised
+Word 2: address
+Cosine Similarity: 0.1960
+
+656.
+Word 1: dead
+Word 2: suddenly
+Cosine Similarity: 0.1172
+
+657.
+Word 1: quiet
+Word 2: restrained
+Cosine Similarity: nan
+
+658.
+Word 1: substantive
+Word 2: essential
+Cosine Similarity: 0.0040
+
+659.
+Word 1: outside
+Word 2: outdoors
+Cosine Similarity: 0.1120
+
+660.
+Word 1: incorrect
+Word 2: wrong
+Cosine Similarity: 0.1720
+
+661.
+Word 1: dull
+Word 2: sharp
+Cosine Similarity: 0.1055
+
+662.
+Word 1: accommodating
+Word 2: tailor
+Cosine Similarity: -0.0796
+
+663.
+Word 1: straight
+Word 2: consecutive
+Cosine Similarity: 0.1087
+
+664.
+Word 1: last
+Word 2: passing
+Cosine Similarity: 0.2420
+
+665.
+Word 1: shortened
+Word 2: digest
+Cosine Similarity: 0.1087
+
+666.
+Word 1: viscous
+Word 2: syrupy
+Cosine Similarity: 0.1417
+
+667.
+Word 1: quiet
+Word 2: compose
+Cosine Similarity: 0.1496
+
+668.
+Word 1: real
+Word 2: nominal
+Cosine Similarity: 0.3263
+
+669.
+Word 1: remote
+Word 2: close
+Cosine Similarity: 0.2300
+
+670.
+Word 1: right
+Word 2: left
+Cosine Similarity: 0.7151
+
+671.
+Word 1: direct
+Word 2: intend
+Cosine Similarity: -0.0062
+
+672.
+Word 1: supplemental
+Word 2: subsidiary
+Cosine Similarity: 0.1583
+
+673.
+Word 1: abstract
+Word 2: synopsis
+Cosine Similarity: 0.1161
+
+674.
+Word 1: comparative
+Word 2: absolute
+Cosine Similarity: 0.0493
+
+675.
+Word 1: inert
+Word 2: indifferent
+Cosine Similarity: 0.0563
+
+676.
+Word 1: dependant
+Word 2: dependent
+Cosine Similarity: 0.2749
+
+677.
+Word 1: deadly
+Word 2: mortal
+Cosine Similarity: 0.0558
+
+678.
+Word 1: slow
+Word 2: quickly
+Cosine Similarity: 0.2251
+
+679.
+Word 1: virulent
+Word 2: blistering
+Cosine Similarity: 0.6693
+
+680.
+Word 1: lacking
+Word 2: wanting
+Cosine Similarity: -0.0391
+
+681.
+Word 1: possible
+Word 2: applicant
+Cosine Similarity: 0.0955
+
+682.
+Word 1: abridged
+Word 2: digest
+Cosine Similarity: 0.0658
+
+683.
+Word 1: wanting
+Word 2: missing
+Cosine Similarity: -0.0061
+
+684.
+Word 1: plundering
+Word 2: rape
+Cosine Similarity: 0.0325
+
+685.
+Word 1: effective
+Word 2: ineffective
+Cosine Similarity: nan
+
+686.
+Word 1: hooked
+Word 2: offer
+Cosine Similarity: -0.0211
+
+687.
+Word 1: absolute
+Word 2: relative
+Cosine Similarity: 0.2056
+
+688.
+Word 1: dynamic
+Word 2: active
+Cosine Similarity: 0.2270
+
+689.
+Word 1: acknowledged
+Word 2: accept
+Cosine Similarity: 0.0638
+
+690.
+Word 1: possible
+Word 2: actual
+Cosine Similarity: 0.4525
+
+691.
+Word 1: capable
+Word 2: open
+Cosine Similarity: 0.2773
+
+692.
+Word 1: close
+Word 2: barricade
+Cosine Similarity: 0.0530
+
+693.
+Word 1: unaccustomed
+Word 2: accustomed
+Cosine Similarity: 0.0067
+
+694.
+Word 1: raised
+Word 2: level
+Cosine Similarity: 0.1711
+
+695.
+Word 1: adhesive
+Word 2: binder
+Cosine Similarity: -0.0020
+
+696.
+Word 1: dead
+Word 2: people
+Cosine Similarity: 0.2344
+
+697.
+Word 1: accommodative
+Word 2: accommodating
+Cosine Similarity: 0.0094
+
+698.
+Word 1: addressed
+Word 2: greet
+Cosine Similarity: 0.0694
+
+699.
+Word 1: dependent
+Word 2: subordinate
+Cosine Similarity: 0.3616
+
+700.
+Word 1: virulent
+Word 2: vitriolic
+Cosine Similarity: 0.1106
+
+701.
+Word 1: rich
+Word 2: people
+Cosine Similarity: 0.1093
+
+702.
+Word 1: basic
+Word 2: staple
+Cosine Similarity: 0.1859
+
+703.
+Word 1: dark
+Word 2: day
+Cosine Similarity: 0.0964
+
+704.
+Word 1: rank
+Word 2: second
+Cosine Similarity: 0.2076
+
+705.
+Word 1: potential
+Word 2: actual
+Cosine Similarity: 0.2892
+
+706.
+Word 1: relative
+Word 2: offspring
+Cosine Similarity: 0.1541
+
+707.
+Word 1: sticky
+Word 2: mucilaginous
+Cosine Similarity: 0.1775
+
+708.
+Word 1: given
+Word 2: generate
+Cosine Similarity: 0.1448
+
+709.
+Word 1: virulent
+Word 2: deadly
+Cosine Similarity: 0.3614
+
+710.
+Word 1: tenacious
+Word 2: coherent
+Cosine Similarity: -0.0419
+
+711.
+Word 1: completing
+Word 2: dispatch
+Cosine Similarity: 0.1797
+
+712.
+Word 1: emergent
+Word 2: emerging
+Cosine Similarity: -0.0102
+
+713.
+Word 1: last
+Word 2: measure
+Cosine Similarity: 0.2478
+
+714.
+Word 1: hot
+Word 2: cold
+Cosine Similarity: 0.1405
+
+715.
+Word 1: receptive
+Word 2: open
+Cosine Similarity: 0.0911
+
+716.
+Word 1: spare
+Word 2: favor
+Cosine Similarity: 0.0014
+
+717.
+Word 1: close
+Word 2: section
+Cosine Similarity: 0.3071
+
+718.
+Word 1: quiet
+Word 2: active
+Cosine Similarity: 0.0691
+
+719.
+Word 1: mounted
+Word 2: rise
+Cosine Similarity: 0.1585
+
+720.
+Word 1: dark
+Word 2: sorry
+Cosine Similarity: 0.0402
+
+721.
+Word 1: addressed
+Word 2: call
+Cosine Similarity: 0.2611
+
+722.
+Word 1: ample
+Word 2: rich
+Cosine Similarity: 0.0084
+
+723.
+Word 1: hooked
+Word 2: snare
+Cosine Similarity: 0.0087
+
+724.
+Word 1: inactive
+Word 2: dormant
+Cosine Similarity: 0.0569
+
+725.
+Word 1: idle
+Word 2: busy
+Cosine Similarity: 0.3912
+
+726.
+Word 1: close
+Word 2: plug
+Cosine Similarity: 0.1050
+
+727.
+Word 1: adequate
+Word 2: enough
+Cosine Similarity: 0.3383
+
+728.
+Word 1: extra
+Word 2: redundant
+Cosine Similarity: 0.0786
+
+729.
+Word 1: addressed
+Word 2: direct
+Cosine Similarity: 0.2276
+
+730.
+Word 1: going
+Word 2: take
+Cosine Similarity: 0.5553
+
+731.
+Word 1: infinite
+Word 2: finite
+Cosine Similarity: 0.4245
+
+732.
+Word 1: open
+Word 2: start
+Cosine Similarity: 0.3877
+
+733.
+Word 1: complementary
+Word 2: completing
+Cosine Similarity: 0.1335
+
+734.
+Word 1: concrete
+Word 2: abstract
+Cosine Similarity: 0.0118
+
+735.
+Word 1: addressed
+Word 2: treat
+Cosine Similarity: 0.1692
+
+736.
+Word 1: slow
+Word 2: weaken
+Cosine Similarity: 0.2746
+
+737.
+Word 1: deficient
+Word 2: insufficient
+Cosine Similarity: 0.0984
+
+738.
+Word 1: hot
+Word 2: spicy
+Cosine Similarity: -0.0058
+
+739.
+Word 1: essential
+Word 2: requisite
+Cosine Similarity: 0.2500
+
+740.
+Word 1: unable
+Word 2: ineffective
+Cosine Similarity: nan
+
+741.
+Word 1: wrong
+Word 2: correct
+Cosine Similarity: 0.5928
+
+742.
+Word 1: live
+Word 2: reside
+Cosine Similarity: 0.3752
+
+743.
+Word 1: hooked
+Word 2: catch
+Cosine Similarity: 0.0216
+
+744.
+Word 1: accepted
+Word 2: receive
+Cosine Similarity: 0.3466
+
+745.
+Word 1: activated
+Word 2: trigger
+Cosine Similarity: 0.0700
+
+746.
+Word 1: adequate
+Word 2: inadequate
+Cosine Similarity: 0.3688
+
+747.
+Word 1: resistant
+Word 2: tolerant
+Cosine Similarity: 0.6617
+
+748.
+Word 1: objective
+Word 2: business
+Cosine Similarity: 0.2718
+
+749.
+Word 1: wide
+Word 2: full
+Cosine Similarity: 0.2152
+
+750.
+Word 1: unacceptable
+Word 2: impossible
+Cosine Similarity: 0.0132
+
+751.
+Word 1: direct
+Word 2: calculate
+Cosine Similarity: 0.0983
+
+752.
+Word 1: rich
+Word 2: robust
+Cosine Similarity: 0.0282
+
+753.
+Word 1: accustomed
+Word 2: habitual
+Cosine Similarity: 0.0555
+
+754.
+Word 1: abstract
+Word 2: summary
+Cosine Similarity: 0.2787
+
+755.
+Word 1: active
+Word 2: participating
+Cosine Similarity: 0.2650
+
+756.
+Word 1: inflamed
+Word 2: arouse
+Cosine Similarity: 0.0425
+
+757.
+Word 1: supplemental
+Word 2: auxiliary
+Cosine Similarity: 0.0123
+
+758.
+Word 1: mounted
+Word 2: fix
+Cosine Similarity: 0.2098
+
+759.
+Word 1: dependant
+Word 2: charge
+Cosine Similarity: 0.4962
+
+760.
+Word 1: deficient
+Word 2: sufficient
+Cosine Similarity: 0.1373
+
+761.
+Word 1: adjective
+Word 2: modifier
+Cosine Similarity: 0.0201
+
+762.
+Word 1: rare
+Word 2: uncommon
+Cosine Similarity: 0.3094
+
+763.
+Word 1: coherent
+Word 2: consistent
+Cosine Similarity: -0.0355
+
+764.
+Word 1: clean
+Word 2: groom
+Cosine Similarity: 0.2145
+
+765.
+Word 1: cut
+Word 2: contract
+Cosine Similarity: 0.2336
+
+766.
+Word 1: cut
+Word 2: furrow
+Cosine Similarity: 0.0648
+
+767.
+Word 1: grasping
+Word 2: understand
+Cosine Similarity: 0.0711
+
+768.
+Word 1: feathered
+Word 2: row
+Cosine Similarity: 0.0409
+
+769.
+Word 1: unused
+Word 2: fresh
+Cosine Similarity: 0.0069
+
+770.
+Word 1: granted
+Word 2: concede
+Cosine Similarity: nan
+
+771.
+Word 1: decorated
+Word 2: honor
+Cosine Similarity: 0.5750
+
+772.
+Word 1: last
+Word 2: lowest
+Cosine Similarity: 0.4022
+
+773.
+Word 1: straight
+Word 2: direct
+Cosine Similarity: 0.2170
+
+774.
+Word 1: existent
+Word 2: potential
+Cosine Similarity: 0.0670
+
+775.
+Word 1: dorsal
+Word 2: ventral
+Cosine Similarity: 0.5610
+
+776.
+Word 1: going
+Word 2: stop
+Cosine Similarity: 0.4099
+
+777.
+Word 1: recognised
+Word 2: spot
+Cosine Similarity: 0.1986
+
+778.
+Word 1: flat
+Word 2: scenery
+Cosine Similarity: 0.2130
+
+779.
+Word 1: close
+Word 2: far
+Cosine Similarity: 0.1581
+
+780.
+Word 1: raised
+Word 2: make
+Cosine Similarity: 0.2706
+
+781.
+Word 1: idle
+Word 2: work
+Cosine Similarity: 0.0792
+
+782.
+Word 1: accurate
+Word 2: inaccurate
+Cosine Similarity: 0.0023
+
+783.
+Word 1: going
+Word 2: fit
+Cosine Similarity: 0.4629
+
